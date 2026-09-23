@@ -14,37 +14,38 @@
 
 | 机场与完整评测 | 优惠码 | 折扣 | 适用条件 | 官网入口 |
 |:---|:---|:---|:---|:---|
-| [星岛梦(StarDream)](https://eoht.net/serve/airport/xdm) | `2happy80` | 8 折 | 中秋国庆活动；年付及以上，**年付小包不参与** | [访问官网](https://eoht.net/serve/airport/xdm) |
-| [星岛梦(StarDream)](https://eoht.net/serve/airport/xdm) | `2happy85` | 85 折 | 中秋国庆活动；年付以下，**年付小包不参与** | [访问官网](https://eoht.net/serve/airport/xdm) |
-| [微风网络(Breeze)](https://eoht.net/serve/airport/breeze) | `weifeng90` | 7 折 | 新老用户均可用；全场所有套餐，支持新购、续费及升级 | [访问官网](https://eoht.net/serve/airport/breeze) |
-| [飞猫云(FlyCat)](https://eoht.net/serve/airport/flycat) | `flycat888` | 8 折 | 新用户购买季付及以上套餐；月付不在优惠说明范围内 | [访问官网](https://eoht.net/serve/airport/flycat) |
-| [暮光网络(TwiLight)](https://eoht.net/serve/airport/twilight) | `mm88` | 8 折 | 限新用户，适用套餐以结算页为准 | [访问官网](https://eoht.net/serve/airport/twilight) |
-| [Sogo云](https://eoht.net/serve/airport/sogo) | `SOGO10000` | 8 折 | 适用套餐及与周期优惠叠加情况以结算页为准 | [访问官网](https://eoht.net/serve/airport/sogo) |
-| [宇宙云(YuZhou)](https://eoht.net/serve/airport/yuzhou) | `YUZHOU553` | 8 折 | 限新用户，适用套餐以结算页为准 | [访问官网](https://eoht.net/serve/airport/yuzhou) |
-| [一翻云(1fly)](https://eoht.net/serve/airport/1fly) | `1FLYYUN` | 9 折 | 适用套餐及与周期优惠叠加情况以结算页为准 | [访问官网](https://eoht.net/serve/airport/1fly) |
-| [二猫云(2mao)](https://eoht.net/serve/airport/2mao) | `ermao888` | 专属 8 折 | **年付小包不支持** | [访问官网](https://eoht.net/serve/airport/2mao) |
-| [边缘节点(EdgeNova)](https://eoht.net/serve/airport/edgenova) | `eoht888` | 专属 8 折 | 适用套餐以结算页为准，尚不能确认所有限时套餐均参与 | [访问官网](https://eoht.net/serve/airport/edgenova) |
-| [无忧链接(WuYou)](https://eoht.net/serve/airport/wuyou) | `wuyou666` | 6.8 折 | 限新用户，**MINI 链接年付 ¥79 套餐不支持**；其他套餐以结算页为准 | [访问官网](https://eoht.net/serve/airport/wuyou) |
-| [Echo](https://eoht.net/serve/airport/echo) | `YNDfPkzi` | 8 折 | 适用套餐及与周期优惠叠加情况以结算页为准 | [访问官网](https://eoht.net/serve/airport/echo) |
-| [SSLAR](https://eoht.net/serve/airport/sslar) | `ko3eTt0w` | 8 折 | 适用套餐及与周期优惠叠加情况以结算页为准 | [访问官网](https://eoht.net/serve/airport/sslar) |
-| [快狸(KuaiLi)](https://eoht.net/serve/airport/kuaili) | `eoht66` | 专属 8 折 | 全场套餐 | [访问官网](https://eoht.net/serve/airport/kuaili) |
-| [速界(SuJie)](https://eoht.net/serve/airport/sujie) | `sujie888` | 8 折 | 限新客首次体验 | [访问官网](https://eoht.net/serve/airport/sujie) |
-| [光速云(LightSpeed)](https://eoht.net/serve/airport/lightspeed) | `AMM` | 8 折 | 限新人首次使用，适用套餐以结算页为准 | [访问官网](https://eoht.net/serve/airport/lightspeed) |
-| [飞为(Firefly)](https://eoht.net/serve/airport/firefly) | `firefly` | 8 折 | 限新用户，**¥96 年付版不参与** | [访问官网](https://eoht.net/serve/airport/firefly) |
-| [闪跃(FlashLeap)](https://eoht.net/serve/airport/flashleap) | `eoht` | 7 折 | 限新用户，适用套餐以结算页为准 | [访问官网](https://eoht.net/serve/airport/flashleap) |
-| [可信云(KeXin)](https://eoht.net/serve/airport/kexin) | `kxy80` | 以结算页为准 | 新老用户均可使用，输入优惠码后查看实际优惠 | [访问官网](https://eoht.net/serve/airport/kexin) |
-| [梯子云(LadderCloud)](https://eoht.net/serve/airport/laddercloud) | `tiziyun` | 8 折 | 新人专享，适用套餐以结算页为准 | [访问官网](https://eoht.net/serve/airport/laddercloud) |
-| [隐形人(YinXingRen)](https://eoht.net/serve/airport/yinxingren) | `yxr888` | 8 折 | 限新客首单，适用套餐以结算页为准 | [访问官网](https://eoht.net/serve/airport/yinxingren) |
-| [九云机场(9Yun)](https://eoht.net/serve/airport/9yun) | `9yun` | 8 折 | 适用套餐以结算页为准 | [访问官网](https://eoht.net/serve/airport/9yun) |
-| [财路云(CaiLu)](https://eoht.net/serve/airport/cailu) | `88888` | 9 折 | 限新人，适用套餐以结算页为准 | [访问官网](https://eoht.net/serve/airport/cailu) |
-| [鲤云(LiYun)](https://eoht.net/serve/airport/liyun) | `liyun888` | 8 折 | 适用套餐以结算页为准 | [访问官网](https://eoht.net/serve/airport/liyun) |
-| [锦云(JinYun)](https://eoht.net/serve/airport/jinyun) | `2026888` | 8 折 | 适用套餐以结算页为准 | [访问官网](https://eoht.net/serve/airport/jinyun) |
-| [秒秒云(MiaoMiao)](https://eoht.net/serve/airport/miaomiao) | `2026888` | 8 折 | 适用套餐以结算页为准 | [访问官网](https://eoht.net/serve/airport/miaomiao) |
-| [山水云(SSY)](https://eoht.net/serve/airport/ssy) | `2026888` | 8 折 | 适用套餐以结算页为准 | [访问官网](https://eoht.net/serve/airport/ssy) |
-| [极速云(JiSu)](https://eoht.net/serve/airport/jisu) | `ikds88` | 8 折 | 适用套餐以结算页为准 | [访问官网](https://eoht.net/serve/airport/jisu) |
-| [宝云(BaoYun)](https://eoht.net/serve/airport/baoyun) | `baoyun` | 8 折 | 适用套餐以结算页为准 | [访问官网](https://eoht.net/serve/airport/baoyun) |
-| [灵猫网络(SpiritCat)](https://eoht.net/serve/airport/spiritcat) | `lingmao` | 8 折 | 限新人，适用套餐以结算页为准 | [访问官网](https://eoht.net/serve/airport/spiritcat) |
-| [有一说一(U1S1)](https://eoht.net/serve/airport/u1s1) | `U1S1` | 85 折 | 限新人，适用套餐以结算页为准 | [访问官网](https://eoht.net/serve/airport/u1s1) |
+| [星岛梦(StarDream)](https://eoht.net/serve/airport/xdm) | `2happy80` | 8 折 | 中秋国庆活动；年付及以上，**年付小包不参与** | [前往官网](https://eoht.net/serve/airport/xdm) |
+| [星岛梦(StarDream)](https://eoht.net/serve/airport/xdm) | `2happy85` | 85 折 | 中秋国庆活动；年付以下，**年付小包不参与** | [前往官网](https://eoht.net/serve/airport/xdm) |
+| [微风网络(Breeze)](https://eoht.net/serve/airport/breeze) | `weifeng90` | 7 折 | 新老用户均可用；全场所有套餐，支持新购、续费及升级 | [前往官网](https://eoht.net/serve/airport/breeze) |
+| [飞猫云(FlyCat)](https://eoht.net/serve/airport/flycat) | `flycat888` | 8 折 | 新用户购买季付及以上套餐；月付不在优惠说明范围内 | [前往官网](https://eoht.net/serve/airport/flycat) |
+| [暮光网络(TwiLight)](https://eoht.net/serve/airport/twilight) | `mm88` | 8 折 | 限新用户，适用套餐以结算页为准 | [前往官网](https://eoht.net/serve/airport/twilight) |
+| [Sogo云](https://eoht.net/serve/airport/sogo) | `SOGO10000` | 8 折 | 适用套餐及与周期优惠叠加情况以结算页为准 | [前往官网](https://eoht.net/serve/airport/sogo) |
+| [宇宙云(YuZhou)](https://eoht.net/serve/airport/yuzhou) | `YUZHOU553` | 8 折 | 限新用户，适用套餐以结算页为准 | [前往官网](https://eoht.net/serve/airport/yuzhou) |
+| [一翻云(1fly)](https://eoht.net/serve/airport/1fly) | `1FLYYUN` | 9 折 | 适用套餐及与周期优惠叠加情况以结算页为准 | [前往官网](https://eoht.net/serve/airport/1fly) |
+| [二猫云(2mao)](https://eoht.net/serve/airport/2mao) | `ermao888` | 专属 8 折 | **年付小包不支持** | [前往官网](https://eoht.net/serve/airport/2mao) |
+| [边缘节点(EdgeNova)](https://eoht.net/serve/airport/edgenova) | `eoht888` | 专属 8 折 | 适用套餐以结算页为准，尚不能确认所有限时套餐均参与 | [前往官网](https://eoht.net/serve/airport/edgenova) |
+| [无忧链接(WuYou)](https://eoht.net/serve/airport/wuyou) | `wuyou666` | 6.8 折 | 限新用户，**MINI 链接年付 ¥79 套餐不支持**；其他套餐以结算页为准 | [前往官网](https://eoht.net/serve/airport/wuyou) |
+| [Echo](https://eoht.net/serve/airport/echo) | `YNDfPkzi` | 8 折 | 适用套餐及与周期优惠叠加情况以结算页为准 | [前往官网](https://eoht.net/serve/airport/echo) |
+| [SSLAR](https://eoht.net/serve/airport/sslar) | `ko3eTt0w` | 8 折 | 适用套餐及与周期优惠叠加情况以结算页为准 | [前往官网](https://eoht.net/serve/airport/sslar) |
+| [快狸(KuaiLi)](https://eoht.net/serve/airport/kuaili) | `eoht66` | 专属 8 折 | 全场套餐 | [前往官网](https://eoht.net/serve/airport/kuaili) |
+| [速界(SuJie)](https://eoht.net/serve/airport/sujie) | `sujie888` | 8 折 | 限新客首次体验 | [前往官网](https://eoht.net/serve/airport/sujie) |
+| [光速云(LightSpeed)](https://eoht.net/serve/airport/lightspeed) | `AMM` | 8 折 | 限新人首次使用，适用套餐以结算页为准 | [前往官网](https://eoht.net/serve/airport/lightspeed) |
+| [飞为(Firefly)](https://eoht.net/serve/airport/firefly) | `firefly` | 8 折 | 限新用户，**¥96 年付版不参与** | [前往官网](https://eoht.net/serve/airport/firefly) |
+| [闪跃(FlashLeap)](https://eoht.net/serve/airport/flashleap) | `eoht` | 7 折 | 限新用户，适用套餐以结算页为准 | [前往官网](https://eoht.net/serve/airport/flashleap) |
+| [可信云(KeXin)](https://eoht.net/serve/airport/kexin) | `kxy80` | 以结算页为准 | 新老用户均可使用，输入优惠码后查看实际优惠 | [前往官网](https://eoht.net/serve/airport/kexin) |
+| [梯子云(LadderCloud)](https://eoht.net/serve/airport/laddercloud) | `tiziyun` | 8 折 | 新人专享，适用套餐以结算页为准 | [前往官网](https://eoht.net/serve/airport/laddercloud) |
+| [隐形人(YinXingRen)](https://eoht.net/serve/airport/yinxingren) | `yxr888` | 8 折 | 限新客首单，适用套餐以结算页为准 | [前往官网](https://eoht.net/serve/airport/yinxingren) |
+| [九云机场(9Yun)](https://eoht.net/serve/airport/9yun) | `9yun` | 8 折 | 适用套餐以结算页为准 | [前往官网](https://eoht.net/serve/airport/9yun) |
+| [财路云(CaiLu)](https://eoht.net/serve/airport/cailu) | `88888` | 9 折 | 限新人，适用套餐以结算页为准 | [前往官网](https://eoht.net/serve/airport/cailu) |
+| [鲤云(LiYun)](https://eoht.net/serve/airport/liyun) | `liyun888` | 8 折 | 适用套餐以结算页为准 | [前往官网](https://eoht.net/serve/airport/liyun) |
+| [锦云(JinYun)](https://eoht.net/serve/airport/jinyun) | `2026888` | 8 折 | 适用套餐以结算页为准 | [前往官网](https://eoht.net/serve/airport/jinyun) |
+| [秒秒云(MiaoMiao)](https://eoht.net/serve/airport/miaomiao) | `2026888` | 8 折 | 适用套餐以结算页为准 | [前往官网](https://eoht.net/serve/airport/miaomiao) |
+| [山水云(SSY)](https://eoht.net/serve/airport/ssy) | `2026888` | 8 折 | 适用套餐以结算页为准 | [前往官网](https://eoht.net/serve/airport/ssy) |
+| [极速云(JiSu)](https://eoht.net/serve/airport/jisu) | `ikds88` | 8 折 | 适用套餐以结算页为准 | [前往官网](https://eoht.net/serve/airport/jisu) |
+| [宝云(BaoYun)](https://eoht.net/serve/airport/baoyun) | `baoyun` | 8 折 | 适用套餐以结算页为准 | [前往官网](https://eoht.net/serve/airport/baoyun) |
+| [灵猫网络(SpiritCat)](https://eoht.net/serve/airport/spiritcat) | `lingmao` | 8 折 | 限新人，适用套餐以结算页为准 | [前往官网](https://eoht.net/serve/airport/spiritcat) |
+| [有一说一(U1S1)](https://eoht.net/serve/airport/u1s1) | `U1S1` | 85 折 | 限新人，适用套餐以结算页为准 | [前往官网](https://eoht.net/serve/airport/u1s1) |
+| [云界线(YunJieXian)](https://eoht.net/serve/airport/yunjiexian) | `eoht666` | 专属 8 折 | 适用套餐、账户限制及与周期优惠叠加情况以结算页为准 | [前往官网](https://eoht.net/serve/airport/yunjiexian) |
 
 <a id="airports-without-listed-coupons"></a>
 
@@ -54,8 +55,8 @@
 
 | 机场与完整评测 | 优惠码 | 官网入口 |
 |:---|:---|:---|
-| [隐云(YinYun)](https://eoht.net/serve/airport/yinyun) | 暂未收录 | [访问官网](https://eoht.net/serve/airport/yinyun) |
-| [可达(KeDa)](https://eoht.net/serve/airport/keda) | 暂未收录 | [访问官网](https://eoht.net/serve/airport/keda) |
+| [隐云(YinYun)](https://eoht.net/serve/airport/yinyun) | 暂未收录 | [前往官网](https://eoht.net/serve/airport/yinyun) |
+| [可达(KeDa)](https://eoht.net/serve/airport/keda) | 暂未收录 | [前往官网](https://eoht.net/serve/airport/keda) |
 
 <a id="how-to-use-airport-coupons"></a>
 
