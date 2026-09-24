@@ -10,7 +10,7 @@
 
 ## 机场优惠码与适用条件一览表
 
-星岛梦和 SSLAR 按付款周期提供不同优惠码。表内折扣为优惠码本身的说明，是否与套餐周期优惠叠加、最终实付金额及未列明的适用范围，请在结算页确认。
+星岛梦、SSLAR 和隐形人按付款周期提供不同优惠码。表内折扣为优惠码本身的说明，是否与套餐周期优惠叠加、最终实付金额及未列明的适用范围，请在结算页确认。
 
 | 机场与完整评测 | 优惠码 | 折扣 | 适用条件 | 官网入口 |
 |:---|:---|:---|:---|:---|
@@ -35,7 +35,8 @@
 | [闪跃(FlashLeap)](https://eoht.net/serve/airport/flashleap) | `eoht` | 7 折 | 限新用户，适用套餐以结算页为准 | [前往官网](https://eoht.net/serve/airport/flashleap) |
 | [可信云(KeXin)](https://eoht.net/serve/airport/kexin) | `kxy80` | 以结算页为准 | 新老用户均可使用，输入优惠码后查看实际优惠 | [前往官网](https://eoht.net/serve/airport/kexin) |
 | [梯子云(LadderCloud)](https://eoht.net/serve/airport/laddercloud) | `tiziyun` | 8 折 | 新人专享，适用套餐以结算页为准 | [前往官网](https://eoht.net/serve/airport/laddercloud) |
-| [隐形人(YinXingRen)](https://eoht.net/serve/airport/yinxingren) | `yxr888` | 8 折 | 限新客首单，适用套餐以结算页为准 | [前往官网](https://eoht.net/serve/airport/yinxingren) |
+| [隐形人(YinXingRen)](https://eoht.net/serve/airport/yinxingren) | `moon80` | 8 折 | 中秋活动截至 10 月 10 日；年付及以上，**年付小包不参与** | [前往官网](https://eoht.net/serve/airport/yinxingren) |
+| [隐形人(YinXingRen)](https://eoht.net/serve/airport/yinxingren) | `moon85` | 85 折 | 中秋活动截至 10 月 10 日；年付以下，**年付小包不参与** | [前往官网](https://eoht.net/serve/airport/yinxingren) |
 | [九云机场(9Yun)](https://eoht.net/serve/airport/9yun) | `eoht` | 专属 8 折 | 适用套餐以结算页为准 | [前往官网](https://eoht.net/serve/airport/9yun) |
 | [财路云(CaiLu)](https://eoht.net/serve/airport/cailu) | `eoht` | 专属 8 折 | 适用套餐以结算页为准 | [前往官网](https://eoht.net/serve/airport/cailu) |
 | [鲤云(LiYun)](https://eoht.net/serve/airport/liyun) | `eoht` | 专属 8 折 | 适用套餐以结算页为准 | [前往官网](https://eoht.net/serve/airport/liyun) |
