@@ -10,7 +10,7 @@
 
 ## 机场优惠码与适用条件一览表
 
-星岛梦、SSLAR 和隐形人按付款周期提供不同优惠码。表内折扣为优惠码本身的说明，是否与套餐周期优惠叠加、最终实付金额及未列明的适用范围，请在结算页确认。
+部分机场按付款周期提供不同优惠码，请区分年付及以上、年付以下或公告指定的付款周期。表内折扣为优惠码本身的说明，是否与套餐周期优惠叠加、最终实付金额及未列明的适用范围，请在结算页确认。
 
 | 机场与完整评测 | 优惠码 | 折扣 | 适用条件 | 官网入口 |
 |:---|:---|:---|:---|:---|
@@ -22,19 +22,22 @@
 | [Sogo云](https://eoht.net/serve/airport/sogo) | `SOGO10000` | 8 折 | 适用套餐及与周期优惠叠加情况以结算页为准 | [前往官网](https://eoht.net/serve/airport/sogo) |
 | [宇宙云(YuZhou)](https://eoht.net/serve/airport/yuzhou) | `YUZHOU553` | 8 折 | 限新用户，适用套餐以结算页为准 | [前往官网](https://eoht.net/serve/airport/yuzhou) |
 | [一翻云(1fly)](https://eoht.net/serve/airport/1fly) | `1FLYYUN` | 9 折 | 适用套餐及与周期优惠叠加情况以结算页为准 | [前往官网](https://eoht.net/serve/airport/1fly) |
-| [二猫云(2mao)](https://eoht.net/serve/airport/2mao) | `ermao888` | 专属 8 折 | **年付小包不支持** | [前往官网](https://eoht.net/serve/airport/2mao) |
+| [二猫云(2mao)](https://eoht.net/serve/airport/2mao) | `zqj80` | 8 折 | 中秋国庆活动截至 10 月 10 日；年付及以上，**年付小包不参与** | [前往官网](https://eoht.net/serve/airport/2mao) |
+| [二猫云(2mao)](https://eoht.net/serve/airport/2mao) | `zqj85` | 85 折 | 中秋国庆活动截至 10 月 10 日；年付以下，**年付小包不参与** | [前往官网](https://eoht.net/serve/airport/2mao) |
 | [边缘节点(EdgeNova)](https://eoht.net/serve/airport/edgenova) | `eoht888` | 专属 8 折 | 适用套餐以结算页为准，尚不能确认所有限时套餐均参与 | [前往官网](https://eoht.net/serve/airport/edgenova) |
 | [无忧链接(WuYou)](https://eoht.net/serve/airport/wuyou) | `wuyou666` | 6.8 折 | 限新用户，**MINI 链接年付 ¥79 套餐不支持**；其他套餐以结算页为准 | [前往官网](https://eoht.net/serve/airport/wuyou) |
 | [Echo](https://eoht.net/serve/airport/echo) | `YNDfPkzi` | 8 折 | 适用套餐及与周期优惠叠加情况以结算页为准 | [前往官网](https://eoht.net/serve/airport/echo) |
 | [SSLAR](https://eoht.net/serve/airport/sslar) | `FrQTxMNh` | 9 折 | 中秋活动：9 月 23 日至 9 月 26 日；**月付、季付**方案 | [前往官网](https://eoht.net/serve/airport/sslar) |
 | [SSLAR](https://eoht.net/serve/airport/sslar) | `vJZCxTVo` | 8 折 | 中秋活动：9 月 23 日至 9 月 26 日；**半年付、年付**方案 | [前往官网](https://eoht.net/serve/airport/sslar) |
 | [快狸(KuaiLi)](https://eoht.net/serve/airport/kuaili) | `eoht66` | 专属 8 折 | 全场套餐 | [前往官网](https://eoht.net/serve/airport/kuaili) |
-| [速界(SuJie)](https://eoht.net/serve/airport/sujie) | `sujie888` | 8 折 | 限新客首次体验 | [前往官网](https://eoht.net/serve/airport/sujie) |
+| [速界(SuJie)](https://eoht.net/serve/airport/sujie) | `2happy80` | 8 折 | 中秋国庆活动截至 10 月 10 日；年付及以上，**年付小包不参与** | [前往官网](https://eoht.net/serve/airport/sujie) |
+| [速界(SuJie)](https://eoht.net/serve/airport/sujie) | `2happy85` | 85 折 | 中秋国庆活动截至 10 月 10 日；年付以下，**年付小包不参与** | [前往官网](https://eoht.net/serve/airport/sujie) |
 | [光速云(LightSpeed)](https://eoht.net/serve/airport/lightspeed) | `AMM` | 8 折 | 限新人首次使用，适用套餐以结算页为准 | [前往官网](https://eoht.net/serve/airport/lightspeed) |
 | [飞为(Firefly)](https://eoht.net/serve/airport/firefly) | `firefly` | 8 折 | 限新用户，**¥96 年付版不参与** | [前往官网](https://eoht.net/serve/airport/firefly) |
 | [闪跃(FlashLeap)](https://eoht.net/serve/airport/flashleap) | `eoht` | 7 折 | 限新用户，适用套餐以结算页为准 | [前往官网](https://eoht.net/serve/airport/flashleap) |
 | [可信云(KeXin)](https://eoht.net/serve/airport/kexin) | `kxy80` | 以结算页为准 | 新老用户均可使用，输入优惠码后查看实际优惠 | [前往官网](https://eoht.net/serve/airport/kexin) |
-| [梯子云(LadderCloud)](https://eoht.net/serve/airport/laddercloud) | `tiziyun` | 8 折 | 新人专享，适用套餐以结算页为准 | [前往官网](https://eoht.net/serve/airport/laddercloud) |
+| [梯子云(LadderCloud)](https://eoht.net/serve/airport/laddercloud) | `2hy80` | 8 折 | 中秋国庆活动截至 10 月 10 日；年付及以上，**年付小包不参与** | [前往官网](https://eoht.net/serve/airport/laddercloud) |
+| [梯子云(LadderCloud)](https://eoht.net/serve/airport/laddercloud) | `2hy85` | 85 折 | 中秋国庆活动截至 10 月 10 日；年付以下，**年付小包不参与** | [前往官网](https://eoht.net/serve/airport/laddercloud) |
 | [隐形人(YinXingRen)](https://eoht.net/serve/airport/yinxingren) | `moon80` | 8 折 | 中秋活动截至 10 月 10 日；年付及以上，**年付小包不参与** | [前往官网](https://eoht.net/serve/airport/yinxingren) |
 | [隐形人(YinXingRen)](https://eoht.net/serve/airport/yinxingren) | `moon85` | 85 折 | 中秋活动截至 10 月 10 日；年付以下，**年付小包不参与** | [前往官网](https://eoht.net/serve/airport/yinxingren) |
 | [九云机场(9Yun)](https://eoht.net/serve/airport/9yun) | `eoht` | 专属 8 折 | 适用套餐以结算页为准 | [前往官网](https://eoht.net/serve/airport/9yun) |
@@ -46,7 +49,7 @@
 | [极速云(JiSu)](https://eoht.net/serve/airport/jisu) | `eoht` | 专属 8 折 | 适用套餐以结算页为准 | [前往官网](https://eoht.net/serve/airport/jisu) |
 | [宝云(BaoYun)](https://eoht.net/serve/airport/baoyun) | `eoht` | 专属 8 折 | 适用套餐以结算页为准 | [前往官网](https://eoht.net/serve/airport/baoyun) |
 | [灵猫网络(SpiritCat)](https://eoht.net/serve/airport/spiritcat) | `lingmao` | 8 折 | 限新人，适用套餐以结算页为准 | [前往官网](https://eoht.net/serve/airport/spiritcat) |
-| [有一说一(U1S1)](https://eoht.net/serve/airport/u1s1) | `U1S1` | 85 折 | 限新人，适用套餐以结算页为准 | [前往官网](https://eoht.net/serve/airport/u1s1) |
+| [有一说一(U1S1)](https://eoht.net/serve/airport/u1s1) | `U1S1-80` | 8 折 | 中秋国庆活动截至 10 月 15 日；节点套餐，**u1s1 · 就是好用包不参与** | [前往官网](https://eoht.net/serve/airport/u1s1) |
 | [云界线(YunJieXian)](https://eoht.net/serve/airport/yunjiexian) | `eoht666` | 专属 6.5 折 | 适用套餐、账户限制及与周期优惠叠加情况以结算页为准 | [前往官网](https://eoht.net/serve/airport/yunjiexian) |
 | [云图机场(YunTu)](https://eoht.net/serve/airport/yuntu) | `yt88` | 88 折 | 全场套餐；开业活动截至 2026 年 11 月 4 日，与其他活动叠加情况以结算页为准 | [前往官网](https://eoht.net/serve/airport/yuntu) |
 
@@ -69,7 +72,7 @@
 2. 复制表内优惠码，在对应官网选好套餐后，将优惠码粘贴到结算页。
 3. 确认折扣已生效，再核对付款总额与流量重置规则；年付折算月价不等于单月付款金额。
 
-星岛梦和 [SSLAR](https://eoht.net/serve/airport/sslar)的优惠码需按付款周期选择；[微风网络](https://eoht.net/serve/airport/breeze)的 `weifeng90` 对应 **7 折**。[可信云](https://eoht.net/serve/airport/kexin)的 `kxy80` 暂无明确折扣数字，输入后以结算页显示的优惠为准。
+表内按付款周期区分的优惠码，需根据实际购买周期选择；[微风网络](https://eoht.net/serve/airport/breeze)的 `weifeng90` 对应 **7 折**。[可信云](https://eoht.net/serve/airport/kexin)的 `kxy80` 暂无明确折扣数字，输入后以结算页显示的优惠为准。
 
 <a id="airport-coupon-faq"></a>
 
@@ -85,7 +88,7 @@
 
 ### 年付小包都能使用优惠码吗？
 
-各机场规则不同。[星岛梦](https://eoht.net/serve/airport/xdm)与[二猫云](https://eoht.net/serve/airport/2mao)的年付小包不参与对应优惠；[飞为](https://eoht.net/serve/airport/firefly)的 ¥96 年付版、[无忧链接](https://eoht.net/serve/airport/wuyou)的 MINI 链接年付 ¥79 套餐也不支持各自列出的优惠码。其他机场未写明限制时，仍需核对所选套餐的结算结果。
+各机场规则不同。[星岛梦](https://eoht.net/serve/airport/xdm)与[二猫云](https://eoht.net/serve/airport/2mao)的年付小包不参与对应优惠；[飞为](https://eoht.net/serve/airport/firefly)的 ¥96 年付版、[无忧链接](https://eoht.net/serve/airport/wuyou)的 MINI 链接年付 ¥79 套餐也不支持各自列出的优惠码。[有一说一](https://eoht.net/serve/airport/u1s1)的“就是好用包”不参与本次双节活动。其他机场未写明限制时，仍需核对所选套餐的结算结果。
 
 <a id="coupon-renewal-upgrade-rules"></a>
 
