@@ -54,6 +54,8 @@
 | [云图机场(YunTu)](https://eoht.net/serve/airport/yuntu) | `yt88` | 88 折 | 全场套餐；开业活动截至 2026 年 11 月 4 日，与其他活动叠加情况以结算页为准 | [前往官网](https://eoht.net/serve/airport/yuntu) |
 | [唯兔云(WeiTuYun)](https://eoht.net/serve/airport/weitu) | `VTFEST80` | 8 折 | 中秋国庆活动；适用套餐及叠加条件以结算页为准 | [前往官网](https://eoht.net/serve/airport/weitu) |
 | [唯兔云(WeiTuYun)](https://eoht.net/serve/airport/weitu) | `rabbit` | 以结算页为准 | 新人优惠码；具体折扣与适用套餐以结算页为准 | [前往官网](https://eoht.net/serve/airport/weitu) |
+| [全球云(QuanQiuYun)](https://eoht.net/serve/airport/quanqiuyun) | `zq80` | 8 折 | 中秋活动；年付及以上套餐 | [前往官网](https://eoht.net/serve/airport/quanqiuyun) |
+| [全球云(QuanQiuYun)](https://eoht.net/serve/airport/quanqiuyun) | `zq85` | 85 折 | 中秋活动；年付以下套餐 | [前往官网](https://eoht.net/serve/airport/quanqiuyun) |
 
 <a id="airports-without-listed-coupons"></a>
 
