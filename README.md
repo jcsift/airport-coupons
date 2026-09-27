@@ -41,7 +41,7 @@
 | [隐形人(YinXingRen)](https://eoht.net/serve/airport/yinxingren) | `moon80` | 8 折 | 中秋活动截至 10 月 10 日；年付及以上，**年付小包不参与** | [前往官网](https://eoht.net/serve/airport/yinxingren) |
 | [隐形人(YinXingRen)](https://eoht.net/serve/airport/yinxingren) | `moon85` | 85 折 | 中秋活动截至 10 月 10 日；年付以下，**年付小包不参与** | [前往官网](https://eoht.net/serve/airport/yinxingren) |
 | [九云机场(9Yun)](https://eoht.net/serve/airport/9yun) | `eoht` | 专属 8 折 | 适用套餐以结算页为准 | [前往官网](https://eoht.net/serve/airport/9yun) |
-| [财路云(CaiLu)](https://eoht.net/serve/airport/cailu) | `eoht` | 专属 8 折 | 适用套餐以结算页为准 | [前往官网](https://eoht.net/serve/airport/cailu) |
+| [熊猫云(XiongMao)](https://eoht.net/serve/airport/xiongmao) | `eoht` | 专属 8 折 | 适用套餐以结算页为准 | [前往官网](https://eoht.net/serve/airport/xiongmao) |
 | [鲤云(LiYun)](https://eoht.net/serve/airport/liyun) | `eoht` | 专属 8 折 | 适用套餐以结算页为准 | [前往官网](https://eoht.net/serve/airport/liyun) |
 | [锦云(JinYun)](https://eoht.net/serve/airport/jinyun) | `eoht` | 专属 8 折 | 适用套餐以结算页为准 | [前往官网](https://eoht.net/serve/airport/jinyun) |
 | [秒秒云(MiaoMiao)](https://eoht.net/serve/airport/miaomiao) | `eoht` | 专属 8 折 | 适用套餐以结算页为准 | [前往官网](https://eoht.net/serve/airport/miaomiao) |
