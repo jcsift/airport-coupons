@@ -56,6 +56,8 @@
 | [唯兔云(WeiTuYun)](https://eoht.net/serve/airport/weitu) | `rabbit` | 以结算页为准 | 新人优惠码；具体折扣与适用套餐以结算页为准 | [前往官网](https://eoht.net/serve/airport/weitu) |
 | [全球云(QuanQiuYun)](https://eoht.net/serve/airport/quanqiuyun) | `zq80` | 8 折 | 中秋活动；年付及以上套餐 | [前往官网](https://eoht.net/serve/airport/quanqiuyun) |
 | [全球云(QuanQiuYun)](https://eoht.net/serve/airport/quanqiuyun) | `zq85` | 85 折 | 中秋活动；年付以下套餐 | [前往官网](https://eoht.net/serve/airport/quanqiuyun) |
+| [榴莲云(LiuLianYun)](https://eoht.net/serve/airport/liulianyun) | `ll88` | 7 折 | 适用套餐及与周期优惠叠加情况以结算页为准 | [前往官网](https://eoht.net/serve/airport/liulianyun) |
+| [神行云(ShenXingYun)](https://eoht.net/serve/airport/shenxing) | `xs0077` | 7 折 | 新人注册购买；年付特惠版折后 ¥67.20/年，续费及其他适用条件以结算页为准 | [前往官网](https://eoht.net/serve/airport/shenxing) |
 
 <a id="airports-without-listed-coupons"></a>
 
