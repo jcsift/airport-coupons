@@ -24,7 +24,7 @@
 | [一翻云(1fly)](https://eoht.net/serve/airport/1fly) | `1FLYYUN` | 9 折 | 适用套餐及与周期优惠叠加情况以结算页为准 | [前往官网](https://eoht.net/serve/airport/1fly) |
 | [二猫云(2mao)](https://eoht.net/serve/airport/2mao) | `zqj80` | 8 折 | 中秋国庆活动截至 10 月 10 日；年付及以上，**年付小包不参与** | [前往官网](https://eoht.net/serve/airport/2mao) |
 | [二猫云(2mao)](https://eoht.net/serve/airport/2mao) | `zqj85` | 85 折 | 中秋国庆活动截至 10 月 10 日；年付以下，**年付小包不参与** | [前往官网](https://eoht.net/serve/airport/2mao) |
-| [边缘节点(EdgeNova)](https://eoht.net/serve/airport/edgenova) | `eoht888` | 专属 8 折 | 适用套餐以结算页为准，尚不能确认所有限时套餐均参与 | [前往官网](https://eoht.net/serve/airport/edgenova) |
+| [边缘节点(EdgeNova)](https://eoht.net/serve/airport/edgenova) | `eoht888` | 专属 8 折 | 限时体验月付小包不参与优惠；其他套餐以结算页为准 | [前往官网](https://eoht.net/serve/airport/edgenova) |
 | [无忧链接(WuYou)](https://eoht.net/serve/airport/wuyou) | `wuyou666` | 6.8 折 | 限新用户，**MINI 链接年付 ¥79 套餐不支持**；其他套餐以结算页为准 | [前往官网](https://eoht.net/serve/airport/wuyou) |
 | [Echo](https://eoht.net/serve/airport/echo) | `YNDfPkzi` | 8 折 | 适用套餐及与周期优惠叠加情况以结算页为准 | [前往官网](https://eoht.net/serve/airport/echo) |
 | [SSLAR](https://eoht.net/serve/airport/sslar) | `FrQTxMNh` | 9 折 | 中秋活动：9 月 23 日至 9 月 26 日；**月付、季付**方案 | [前往官网](https://eoht.net/serve/airport/sslar) |
