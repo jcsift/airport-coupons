@@ -58,6 +58,8 @@
 | [全球云(QuanQiuYun)](https://eoht.net/serve/airport/quanqiuyun) | `zq85` | 85 折 | 中秋活动；年付以下套餐 | [前往官网](https://eoht.net/serve/airport/quanqiuyun) |
 | [榴莲云(LiuLianYun)](https://eoht.net/serve/airport/liulianyun) | `ll88` | 7 折 | 适用套餐及与周期优惠叠加情况以结算页为准 | [前往官网](https://eoht.net/serve/airport/liulianyun) |
 | [神行云(ShenXingYun)](https://eoht.net/serve/airport/shenxing) | `xs0077` | 7 折 | 新人注册购买；年付特惠版折后 ¥67.20/年，续费及其他适用条件以结算页为准 | [前往官网](https://eoht.net/serve/airport/shenxing) |
+| [安迪云(AnDy)](https://eoht.net/serve/airport/andy) | `eoht` | 专属 8 折 | 适用套餐及其他条件以结算页为准 | [前往官网](https://eoht.net/serve/airport/andy) |
+| [杏花云(XingHua)](https://eoht.net/serve/airport/xinghua) | `eoht` | 专属 8 折 | 适用套餐及其他条件以结算页为准 | [前往官网](https://eoht.net/serve/airport/xinghua) |
 
 <a id="airports-without-listed-coupons"></a>
 
